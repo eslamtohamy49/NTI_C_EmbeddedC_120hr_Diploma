@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1703966544 source:c:\users\my computer\desktop\nti tasks\bank_database\bank_data_base_interfaces.c
+	"Bank_Database_config.h"
+	"Bank_database.h"
+
+1703964843 c:\users\my computer\desktop\nti tasks\bank_database\bank_database.h
+	<stdlib.h>
+	<stdio.h>
+
+1703965293 source:c:\users\my computer\desktop\nti tasks\bank_database\main.c
+	"Bank_database.h"
+
+1703954184 c:\users\my computer\desktop\nti tasks\bank_database\bank_database_config.h
+
