@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704306238 source:c:\users\my computer\desktop\nti tasks\student_database_with_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+
